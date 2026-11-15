@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7c2d12,100:f59e0b&height=140§ion=header)
+
 <h1>✦ ADITYA TIWARI ✦</h1>
 <h3>Generative AI, Deep Learning & Full-Stack Engineer | B.Tech CSE (AI)</h3>
 
